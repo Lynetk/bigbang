@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:Lynetk/bigbang
+    repoURL: 'https://github.com/Lynetk/bigbang.git'
     targetRevision: HEAD
     path: 02-argocd-applications
   destination:
